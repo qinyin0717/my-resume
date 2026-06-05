@@ -2,4 +2,4 @@
 
 Latest Resume:
 
-[Download Resume](./Resume.pdf)
+[Download Resume](./Resume_YAP_CHIN_YI.pdf)
